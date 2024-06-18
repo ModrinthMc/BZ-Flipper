@@ -1,4 +1,4 @@
-Sure! Here's a passage for your GitHub README file for an Auction House Flipper mod for Hypixel Skyblock:
+
 
 ---
 
